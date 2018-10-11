@@ -1,4 +1,4 @@
-This is an implementation of "raw" AES Cipher with HMAC-SHA256 algorithm.
+This is an implementation of "raw" AES Cipher with HMAC-SHA256 algorithm and CBC mode encryption.
 
 
 
